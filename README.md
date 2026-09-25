@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/signal-system.svg" alt="Abstract static diagram of a signal moving through structure toward a decision" width="900">
-</p>
+
 
 <h1 align="center">C++ systems for the moments between tick and trade</h1>
 
